@@ -27,12 +27,11 @@ Technologies and techniques I learned and used in this course:
   18. custom alerts
   19. SearchBar Controller
 
-![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 15 42](https://user-images.githubusercontent.com/52208012/103914996-7cc4f880-5102-11eb-865f-ff0859b6a246.png)
-![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 16 11](https://user-images.githubusercontent.com/52208012/103915009-82bad980-5102-11eb-8f00-eeefcc93a77d.png)
-![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 16 51](https://user-images.githubusercontent.com/52208012/103915012-83ec0680-5102-11eb-9766-89f761d92723.png)
-![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 16 59](https://user-images.githubusercontent.com/52208012/103915016-864e6080-5102-11eb-8885-aa6272b549bc.png)
-![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 17 21](https://user-images.githubusercontent.com/52208012/103915020-88b0ba80-5102-11eb-9048-257e4b1b8391.png)
-![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 17 27](https://user-images.githubusercontent.com/52208012/103915022-8a7a7e00-5102-11eb-8085-4bf68649f8d5.png)
-![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 17 41](https://user-images.githubusercontent.com/52208012/103915027-8cdcd800-5102-11eb-9e02-09efd4b276c1.png)
-![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 17 54](https://user-images.githubusercontent.com/52208012/103915036-8ea69b80-5102-11eb-8eee-6197000a3858.png)
-
+![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 15 42](https://user-images.githubusercontent.com/52208012/103916059-e691d200-5103-11eb-8865-728af81ee13b.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 16 11](https://user-images.githubusercontent.com/52208012/103916061-e7c2ff00-5103-11eb-91b4-ae0285f2b75b.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 16 51](https://user-images.githubusercontent.com/52208012/103916065-e85b9580-5103-11eb-821a-6dffd68f737c.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 16 59](https://user-images.githubusercontent.com/52208012/103916069-e85b9580-5103-11eb-8e66-7fb18b8106b7.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 17 21](https://user-images.githubusercontent.com/52208012/103916070-e8f42c00-5103-11eb-90a8-3868a993d1ac.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 17 27](https://user-images.githubusercontent.com/52208012/103916072-e8f42c00-5103-11eb-81a8-c7c3cd6a44cd.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 17 41](https://user-images.githubusercontent.com/52208012/103916073-e8f42c00-5103-11eb-864f-2c278729722a.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 17 54](https://user-images.githubusercontent.com/52208012/103916077-e98cc280-5103-11eb-8f7b-d3d081581ea2.png)
