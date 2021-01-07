@@ -26,6 +26,8 @@ Technologies and techniques I learned and used in this course:
   17. Empty state views
   18. custom alerts
   19. SearchBar Controller
+  
+  some screenshots of my app:
 
 ![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 15 42](https://user-images.githubusercontent.com/52208012/103916059-e691d200-5103-11eb-8865-728af81ee13b.png)
 ![Simulator Screen Shot - iPhone 12 - 2021-01-07 at 15 16 11](https://user-images.githubusercontent.com/52208012/103916061-e7c2ff00-5103-11eb-91b4-ae0285f2b75b.png)
