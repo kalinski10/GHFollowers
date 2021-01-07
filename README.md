@@ -26,3 +26,5 @@ Technologies and techniques I learned and used in this course:
   17. Empty state views
   18. custom alerts
   19. SearchBar Controller
+
+Check out my screenshots folder for a better view of the app
