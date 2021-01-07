@@ -38,9 +38,9 @@ class SearchVC: UIViewController {
         guard isUserNameEntered else {
             presentGFAlertOnMainThread(title: "Empty Username", message: "Please enter a username. We need to know who to look for 😀.", buttonTitle: "OK")
             return
-        } // if the statement returns true then do the following lines of code
+        }
         
-        usernameTextField.resignFirstResponder() // removes keyboard when pushing forward
+        usernameTextField.resignFirstResponder()
         let followersListVC = FollowersListVC(username: usernameTextField.text!)
         navigationController?.pushViewController(followersListVC, animated: true)
     }
@@ -58,7 +58,7 @@ class SearchVC: UIViewController {
     
     
     private func keyeboardDissmiser() {
-        let tap = UITapGestureRecognizer(target: view, action: #selector(view.endEditing)) // don't forget to add view.self otherwise it wouldnt work
+        let tap = UITapGestureRecognizer(target: view, action: #selector(view.endEditing))
         view.addGestureRecognizer(tap)
     }
     
